@@ -1,5 +1,3 @@
-// CSE 143 Homework 7: 20 Questions
-//
 // To use the jGRASP debugger with this program, set a breakpoint
 // and once the execution breaks, open 'this' or 'tq' on the left,
 // then look at its variable 'tree'.  That's your QuestionTree.
