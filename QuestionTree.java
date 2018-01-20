@@ -1,6 +1,3 @@
-//Name: Mayank Kathuria
-//Student Number: 1534791
-//Section: BH
 //The QuestionTree class allows the computer to guess the object thought by the user by
 //asking a series of yes/no questions. Eventually, the computer makes a guess. If the guess
 //is correct, the computer wins; if not, the user win.
