@@ -1,6 +1,3 @@
-//Name: Mayank Kathuria
-//Student number: 1534791
-//Section: BH
 //QuestionNode objects stores a single node of a binary tree of String.
 public class QuestionNode{
    public String data; //data stored at this node
